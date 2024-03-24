@@ -1,0 +1,13 @@
+{
+
+"icons": [
+
+    {"src": "photos/axe8.jpg",
+"type": "photos/jpg", "sizes":
+"192x192" },
+{"src": "photos/axe7.jpg",
+"type": "photos/jpg", "sizes":
+"512x512" }
+]
+    
+}
